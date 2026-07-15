@@ -134,17 +134,6 @@ Example:
 
 ---
 
-## 📸 Screenshots
-
-After deploying your application, add screenshots here.
-
-Example:
-
-- Home Page
-- Prediction Result
-
----
-
 ## 🔮 Future Enhancements
 
 - Interactive cluster visualization
